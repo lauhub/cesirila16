@@ -6,3 +6,4 @@
 | Référence | Désignation | Critère | Flexibilité |
 |---|---|---|---|
 | FP1 | Laisser une trace | Trace visible à l'oeil humain | À définir |
+| FC1 | Ne pas rouler sur la table | Le crayon ne roule pas sur une pente inférieur à 5% | + ou - 1% |
